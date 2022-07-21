@@ -1,0 +1,6 @@
+ "# _iltersevket01" >> README.md 
+git init 
+git add README.md 
+git commit -m "ilk taahhüt" 
+git branch -M "main" 
+git remote add Origin
